@@ -34,7 +34,6 @@
 5. Ознайомитися з програмованою системою на чипі CY8CKIT-042 PSoC® 4 Pioneer Kit. Підключити PSoC® 4 Pioneer Kit до комп’ютера через USB.
 
 6. В каталозі Cypress, обираємо папку Port and Pins та перетягуємо на сторінку схеми два компоненти (рис. 1) вхідний Digital Input Pin [v2.20] та вихідний Digital Output Pin [v2.20] піни.
-
 <img width="1599" height="899" alt="Вибір потрібних компонентів" src="https://github.com/user-attachments/assets/c4982882-c730-4ab8-9296-27af5c6164fe" />
 Рис. 1 - Вибір потрібних компонентів
 
